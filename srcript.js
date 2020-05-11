@@ -21,3 +21,6 @@ var scoreMary = ((116+96+165)/3);
     else {
         console.log("Something went wrong")
     }
+
+    var newLine = 5;
+    console.log(newLine);
